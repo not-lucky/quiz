@@ -1,0 +1,11 @@
+#root {
+  width: 100%;
+}
+
+.selected {
+  background-color: aqua;
+}
+
+.row-height {
+  height: 70px;
+}
